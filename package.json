@@ -1,0 +1,12 @@
+{
+  "name": "ext-aws-sdk-min",
+  "version": "2.354.0",
+  "main": "aws-sdk-2.354.0.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/liminex/ext-aws-sdk-min.git"
+  }
+}
