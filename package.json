@@ -1,7 +1,7 @@
 {
   "name": "ext-aws-sdk-min",
   "version": "2.354.0",
-  "main": "aws-sdk-2.354.0.min.js",
+  "main": "aws-sdk.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
