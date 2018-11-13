@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/liminex/ext-aws-sdk-min.git"
+    "url": "git://github.com/goguardian/ext-aws-sdk-min.git"
   }
 }
